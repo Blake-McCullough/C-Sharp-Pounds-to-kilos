@@ -5,10 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-/* Program to covert pounds to kilos
- * written by Blake McCullough
- * Created 19 July 2019
- * */
+//Made By Blake McCullough
+//Discord - Spoiled_Kitten#4911
+//Github - https://github.com/Blake-McCullough/
+//Email - privblakemccullough@protonmail.com
+
 
 namespace Pounds_to_Kilos
 {
